@@ -1,2 +1,2 @@
 # rants
-A Pissed Off Developer's story
+Angry Words of Improbable Wisdom
